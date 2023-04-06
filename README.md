@@ -11,6 +11,20 @@
 
  
 <hr>
+<h4>Governamentais</h4>
+<ul>
+ <li><a href="https://transparencia.gov.pt/pt/">Mais Transparência - Portugal</a></li>
+ <li><a href="https://dados.gov.pt/pt/">Portal de dados abertos da Administração Pública</a></li>
+ <li><a href="https://www.base.gov.pt/base4">Contratos Públicos Online</a></li>
+ <li><a href="https://www.sns.gov.pt/transparencia/">Serviço Nacional de Saúde - Transparência</a></li>
+ <li><a href="https://partilha.justica.gov.pt/Transparencia">Justiça - Transparência</a></li>
+ <li><a href="https://dadosabertos.turismodeportugal.pt/">Turismo - Transparência</a></li>
+</ul>
+
+<h4>Transparência Internacional</h4>
+<ul><li><a href="https://transparencia.pt/">Transparência Internacional - Portugal</a></li></ul>
+
+<hr>
 
 <h4>Autor</h4>
 <ul>
